@@ -49,7 +49,7 @@ author:
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : lzh17 # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : leonzhaojl # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
@@ -129,10 +129,10 @@ comments:
   gitalk:
     clientID    : 64b34c6c606b6445d18f # GitHub Application Client ID
     clientSecret: 42650e2860686d979a34922e37d68b8d9def5fd1 # GitHub Application Client Secret
-    repository  : lzh17.github.io # GitHub repo
-    owner       : lzh17 # GitHub repo owner
+    repository  : leonzhaojl.github.io # GitHub repo
+    owner       : leonzhaojl # GitHub repo owner
     admin:  # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      - lzh17 # - your GitHub Id
+      - leonzhaojl # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
